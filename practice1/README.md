@@ -1,8 +1,4 @@
-# pie-lab-practice1
-pie-lab 2025 New Student Training
-
-Practice 1: Convolutional Networks, Temporal Networks, Residual Networks
-
+# Practice 1: Convolutional Networks, Temporal Networks, Residual Networks
 All outputs of this experiment are shown as follows:
 
 model: mycnn

@@ -1,4 +1,4 @@
-# Practice 1: Convolutional Networks, Temporal Networks, Residual Networks
+# Practice 1: CNN、RNN、ResNet
 All outputs of this experiment are shown as follows:
 
 model: mycnn

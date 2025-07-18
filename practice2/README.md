@@ -1,4 +1,4 @@
-# Practice 1: Convolutional Networks, Temporal Networks, Residual Networks
+# Practice 2: Attention
 All outputs of this experiment are shown as follows:
 
 Epoch 1/100: Train Loss 1.8275 | Train Acc 0.3256 | Test Loss 1.6214 | Test Acc 0.4078

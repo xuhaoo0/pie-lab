@@ -268,7 +268,7 @@ def main():
     for epoch in range(EPOCHS):
         train_loss, train_acc = train(model, train_loader, optimizer, criterion)
         test_loss, test_acc = evaluate(model, test_loader, criterion)
-        # scheduler.step()  # 更新学习率【去掉？】
+        scheduler.step()  # 更新学习率
         train_losses.append(train_loss)
         test_losses.append(test_loss)
         train_accs.append(train_acc)
